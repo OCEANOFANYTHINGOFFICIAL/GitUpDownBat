@@ -19,5 +19,4 @@ git clone https://github.com/OCEANOFANYTHINGOFFICIAL/GitUploaderBat.git
 ### or
 ## Directly Download The Zip File [Click Here](https://github.com/OCEANOFANYTHINGOFFICIAL/GitUploaderBat/archive/refs/heads/main.zip)
 # Attribute
-[ocean of anything](https://oceanofanythingg.blogspot.com)#  
-#  
+[ocean of anything](https://oceanofanythingg.blogspot.com)
