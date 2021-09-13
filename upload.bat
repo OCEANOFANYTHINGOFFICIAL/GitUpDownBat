@@ -20,9 +20,6 @@ echo Readme.md:  %rme%
 echo.
 echo # %rme% >> README.md
 :oth
-set /p ext=Mention Which File Types (extentions or names) Will Be Tracked With LFS. Type(*.*) To Track All: 
-echo.
-echo File Will Be Tracked : %rme%
 echo.
 set /p com=Write Your Commit Message Here: 
 echo.
@@ -35,8 +32,6 @@ echo.
 set /p branch=Set Your Git Branch: 
 cd %dir%
 git init
-git lfs track "%ext%"
-git add .gitattributes
 git add .
 git commit -m "%com%"
 git branch -M %branch%
